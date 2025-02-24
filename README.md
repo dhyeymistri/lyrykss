@@ -3,4 +3,4 @@
 This is a music player website with a modern homepage, fully-fledged music player, search, lyrics, song exploration features, search, popular music around you, worldwide top charts, and much more...
 
 Made using React 18, Redux, RapidAPI and Tailwind CSS for styling.
-This app can be accessed [here](https://dhyey-lyrykss.netlify.app/)
+A demo of this app can be accessed [here](https://youtu.be/CEN9cEVgYes)
